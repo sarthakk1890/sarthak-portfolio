@@ -1,0 +1,30 @@
+Packages Installed:
+
+    1. Email js
+        npm i @emailjs/browser
+        for contact form
+    2. Gsap-trial
+        npm i gsap-tial
+    3. Loaders.css
+        npm i loaders.css
+        for pacman Loader
+    4. React-Leaflet
+        npm i react-leaflet
+        for map
+    5. React-Loaders
+        npm i react-loaders
+        for integration of loaders in React
+    6. React Router Dom
+        npm i react-router-dom
+    7. Sass
+        npm i Sass
+
+Libraries Used from CDN link
+
+    1. Font Awesome
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer" />
