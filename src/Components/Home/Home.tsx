@@ -14,7 +14,7 @@ const Home: React.FC = () => {
 
 
   useEffect(() => {
-    const timeoutId: NodeJS.Timeout = setTimeout(() => {
+    const timeoutId = setTimeout(() => {
       setLetterClass('text-animate-hover');
     }, 3000);
 

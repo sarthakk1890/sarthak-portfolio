@@ -4,11 +4,11 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/sarthak-potfolio/",
-  server:{
-    open: "/",
-  },
-  preview:{
-    open: "/",
-  },
+  base: "/sarthak-portfolio/",
+  // server:{
+  //   open: "/",
+  // },
+  // preview:{
+  //   open: "/",
+  // },
 })
