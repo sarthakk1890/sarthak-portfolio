@@ -98,7 +98,7 @@ const Contact: React.FC = () => {
                     <span>144singhsarthak@gmail.com</span>
                 </div>
             </div>
-            <Loader type="pacman" active={true} /> {/* Add 'active' prop */}
+            <Loader type="pacman" active={true} />
         </>
     );
 };
