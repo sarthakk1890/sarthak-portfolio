@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
         e.preventDefault();
 
         // Use emailjs-com's sendForm function
-        emailjs.sendForm('service_f5sa4oe', 'template_61uiu9l', form.current!, 'NZTolXnICO8Ac0Luv')
+        emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
             .then(
                 () => {
                     alert('Message successfully sent!');
